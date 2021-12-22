@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 class Task4 {
-    public static int CountNumberOfPairs(int[] arr, int target_numb, boolean Streamquestion) {
+    public static int countnumber_OfPairs(int[] arr, int target_numb, boolean Streamquestion) {
       var count = 0;
       if(Streamquestion){
         count = ((int)Arrays.stream(arr).flatMap(i -> Arrays.stream(arr)
