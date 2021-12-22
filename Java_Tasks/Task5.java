@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 public class Task5 {
-    public static String sortedOrder(String string) {
+    public static String sorteOrder(String string) {
         string = string.toUpperCase();
         var names = string.split(";");
         return Arrays.stream(names)
