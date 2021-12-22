@@ -5,19 +5,11 @@ public class Main {
     public static void main(String[] args) {
 
         // First task
-        Task1 task1 = new Task1();
         System.out.println("First task:");
-        System.out.println("Expected output:");
-        System.out.println("[1, 2, 'a', 'b'] => [1, 2]");
-        System.out.println("[1, 2, 'a', 'b', 0, 15] => [1, 2, 0, 15]");
-        System.out.println("[1, 2, 'a', 'b', 'aasf', '1', '123', 231] => [1, 2, 231]");
         System.out.println("Output:");
-        System.out.printf("[1, 2, 'a', 'b'] => %s\n", task1.getIntegersFromList(Arrays.asList(1, 2, "a", "b")));
-        System.out.printf("[1, 2, 'a', 'b', 0, 15] => %s\n",
-                task1.getIntegersFromList(Arrays.asList(1, 2, "a", "b", 0, 15)));
-        System.out.printf("[1, 2, 'a', 'b', 'aasf', '1', '123', 231] => %s\n",
-                task1.getIntegersFromList(Arrays.asList(1, 2, "a", "b", "aasf", "1", "123", 231)));
-
+        System.out.println(getIntegersFromList(Arrays.asList(1,2,'a','b')));
+        System.out.println(getIntegersFromList(Arrays.asList(1,2,'a','b',0,15)));
+        System.out.println(getIntegersFromList(Arrays.asList(1,2,'a','b',"aasf",'1',"123",231)));
         // Second task
         Task2 task2 = new Task2();
         System.out.println("\n\nSecond task:");
