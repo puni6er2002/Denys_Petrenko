@@ -1,2 +1,2 @@
 # Denys_Petrenko
-Repository for software development and testing labs
+Repository for Numerical Methods code
