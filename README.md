@@ -15,4 +15,4 @@ This branch contains programing tasks in C (basic tasks)
   1. Clone the repository;
   2. You need to have Microsoft Visual IDEs (Studio or Code) installed;
   3. Open files in Microsoft Visual IDEs and run them;
-  4. If nessesary, download needed C++ libraries.
+  4. If nessesary, download needed C libraries.
