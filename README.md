@@ -13,6 +13,6 @@ This branch contains programing tasks in C++ (basic tasks, object-oriented progr
 
 ## :genie: Steps to launch:
   1. Clone the repository;
-  2. You need JDK (Java Development Kit) to be installed;
-  3. Open files in Java IDE and run them;
-  4. If nessesary, download needed Java libraries.
+  2. You need to have Microsoft Visual IDEs (Studio or Code) installed;
+  3. Open files in Microsoft Visual IDEs and run them;
+  4. If nessesary, download needed C++ libraries.
