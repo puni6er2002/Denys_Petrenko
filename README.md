@@ -6,7 +6,7 @@ This branch contains programing tasks in Java (basic tasks, algorithms and ontol
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache Jena" alt="Apache Jena" width="40" height="40"/>&nbsp;
 </div>
 
-#Steps to launch:
+## :genie: Steps to launch:
   1. Clone the repository;
   2. You need JDK (Java Development Kit) to be installed;
   3. Open files in Java IDE and run them;
