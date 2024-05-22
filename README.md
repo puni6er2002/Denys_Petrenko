@@ -16,7 +16,3 @@ This branch contains programing tasks in C++ (basic tasks, object-oriented progr
   2. You need JDK (Java Development Kit) to be installed;
   3. Open files in Java IDE and run them;
   4. If nessesary, download needed Java libraries.
-
-
-
-Repository for OOP in C++
