@@ -9,7 +9,7 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: I’m studying as a Data Analyst and perform analyzing SQL databases; calculate data in Excel, Google Sheets; creating static and dynamic visualization with Tableau.
+- :telescope: I’m studying as a Data Analyst and perform analyzing SQL databases; calculate data in Excel, Google Sheets; creating static and dynamic visualization with Tableau and Microsoft Power BI.
 
 - :brain: Exploring Data Analysis Skills (more technical ones).
 
