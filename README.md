@@ -6,6 +6,12 @@ This branch contains programing tasks in Java (basic tasks, algorithms and ontol
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache Jena" alt="Apache Jena" width="40" height="40"/>&nbsp;
 </div>
 
+## :scroll: IDEs:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij IDE" alt="Intellij IDE" width="40" height="40"/>&nbsp;
+</div>
+
 ## :genie: Steps to launch:
   1. Clone the repository;
   2. You need JDK (Java Development Kit) to be installed;
