@@ -11,9 +11,11 @@
 
 - :telescope: I’m studying as a Data Analyst and perform analyzing SQL databases; calculate data in Excel, Google Sheets; creating static and dynamic visualization with Tableau and Microsoft Power BI.
 
-- :brain: Exploring Data Analysis Skills (more technical ones).
+- :brain: Exploring Data Analysis Skills (more hard skills).
 
 - :zap: In my free time, I analyze all data around me with great curiosity, trying to find some patterns in daily life which help me to make data-driven decisions. In addition to mentioned info, I read tech articles, improve my skills using Coursera and have fun from my life.
+
+- :telescope: What's more about me, now I'm the student of one of the Ukraine's university, studying as Software Engineer and I'm so interested to show my works.
 
 - :mailbox:How to reach me in social media: [![Linkedin Badge](https://img.shields.io/badge/-Denis_Petrenko-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/denis-petrenko-8a8b79225)
 
